@@ -14,11 +14,11 @@ This tutorial aims to provide adequate information to anyone who wants to learn 
 
 ## Prerequisites
   - node --version
-    - v16.13.0
+    - v18.x or higher (LTS recommended)
   - npm --version 
-    - 8.1.0
+    - 9.x or higher
   - http-server --version
-    - v14.1.1
+    - v14.x or higher
 
 ## Setup
 

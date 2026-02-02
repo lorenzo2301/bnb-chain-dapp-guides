@@ -17,16 +17,16 @@ This tutorial aims to provide adequate information to anyone who wants to learn 
 
 ## Prerequisites
   - node --version
-    - v16.13.0
+    - v18.x or higher (LTS recommended)
   - npm --version 
-    - 8.1.0
+    - 9.x or higher
   - truffle version
-    - Truffle v5.5.19 (core: 5.5.19)
-    - Ganache v7.2.0
-    - Solidity - ^0.8.0 (solc-js)
-    - Web3.js v1.5.3
+    - Truffle v5.11.x or higher
+    - Ganache v7.x or higher
+    - Solidity - ^0.8.0 or higher (solc-js)
+    - Web3.js v1.x or higher
   - MetaMask Wallet
-    - 10.16.1
+    - Latest version recommended
 
 ## Setup
 
@@ -36,7 +36,7 @@ This tutorial aims to provide adequate information to anyone who wants to learn 
 ```cd 01- Hello World Full Stack dApp on BSC```
 3. **Install all the dependencies (node modules)**
 ```npm install```
-4. Create a ```.secret``` file with the secret phrase of MetaMask. Refer [here](https://metamask.zendesk.com/hc/en-us/articles/360015290032-How-to-reveal-your-Secret-Recovery-Phrase) for details on how to get MetaMask secret phrase.   
+4. Create a ```.secret``` file with the secret phrase of MetaMask. Refer to MetaMask documentation for details on how to get your secret recovery phrase.   
 5. **Compile Smart Contracts**
 ```truffle compile```
 6. **Migrate Smart Contracts**

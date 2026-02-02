@@ -27,11 +27,11 @@ MNEMONIC=""
 
 # URL to access BNB smart chain testnet
 
-L1URL="https://data-seed-prebsc-1-s1.bnbchain.org:8545"
+L1URL="<configure-your-l1-rpc-url>"
 
 # URL to access opBNB testnet
 
-L2URL="https://opbnb-testnet-rpc.bnbchain.org"
+L2URL="<configure-your-l2-rpc-url>"
 ```
 
 
