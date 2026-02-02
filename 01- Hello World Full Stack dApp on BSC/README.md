@@ -124,7 +124,7 @@ HelloWorld.
 
 ### How to Use
 1. Open browser and navigate to ```http://localhost:3000/```
-2. Make sure that your MetaMask wallet is correctly installed and configured to connect to BSC Testnet. Refer to this [guide](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain) for details.
+2. Make sure that your MetaMask wallet is correctly installed and configured to connect to BSC Testnet.
 3. Select your desired account of MetaMask that has BNB Test tokens to perform transactions.
 4. To get test tokens use the BNB Smart Chain Faucet.
 5. Click on Greet Button to display message, by default its Hello World.

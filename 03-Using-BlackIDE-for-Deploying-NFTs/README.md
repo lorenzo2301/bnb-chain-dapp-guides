@@ -28,10 +28,10 @@ We aim to keep this tutorial as simple as possible and hence tend to use as mini
 *	Ensure that you have the Metamask Wallet extension installed and running on our browser.
 *	Configure the Metamask wallet for use with the BSC Testnet. Use the following details to add the BSC Testnet. For further details, refer here.
 *	Network Name: BSC Testnet
-*	RPC URL: https://data-seed-prebsc-1-s1.binance.org:8545/
+*	RPC URL: (configure as needed)
 *	Chain ID: 97
 *	Currency Symbol: BNB
-*	Block Explorer URL: https://testnet.bscscan.com 
+*	Block Explorer URL: (configure as needed) 
 *	Black IDE: both desktop app and web app are available and it is up to your convenience to choose from. For this tutorial, we used the desktop app as the web app lacks support for importing OpenZeppelin Contracts. 
 *	Download/Install any dependencies required by BlackIDE
 
